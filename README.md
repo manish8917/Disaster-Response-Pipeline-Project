@@ -10,7 +10,6 @@ This project was completed as part of the course requirements of Udacity's Data 
 2. [Getting Started](#getting_started)
 	1. [Dependencies](#dependencies)
 	2. [Executing Program](#executing)
-	3. [Additional Material](#material)
 3. [License](#License)
 5. [Acknowledgement](#acknowledgement)
 6. [Screenshots](#screenshots)
@@ -52,18 +51,6 @@ The Project is divided in the following Sections:
 
 3. Go to http://0.0.0.0:3001/
 
-<a name="material"></a>
-### Additional Material
-
-In the **data** and **models** folder you can find two jupyter notebook that will help you understand how the model works step by step:
-1. **ETL Preparation Notebook**: learn everything about the implemented ETL pipeline
-2. **ML Pipeline Preparation Notebook**: look at the Machine Learning Pipeline developed with NLTK and Scikit-Learn
-
-You can use **ML Pipeline Preparation Notebook** to re-train the model or tune it through a dedicated Grid Search section.
-In this case, it is warmly recommended to use a Linux machine to run Grid Search, especially if you are going to try a large combination of parameters.
-Using a standard desktop/laptop (4 CPUs, RAM 8Gb or above) it may take several hours to complete. 
-
-<a name="authors"></a>
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
