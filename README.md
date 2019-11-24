@@ -9,11 +9,9 @@ This project was completed as part of the course requirements of Udacity's Data 
 1. [Description](#description)
 2. [Getting Started](#getting_started)
 	1. [Dependencies](#dependencies)
-	2. [Installing](#installing)
-	3. [Executing Program](#executing)
-	4. [Additional Material](#material)
-3. [Authors](#authors)
-4. [License](#license)
+	2. [Executing Program](#executing)
+	3. [Additional Material](#material)
+3. [License](#License)
 5. [Acknowledgement](#acknowledgement)
 6. [Screenshots](#screenshots)
 
@@ -41,13 +39,6 @@ The Project is divided in the following Sections:
 * SQLlite Database Libraqries: SQLalchemy
 * Web App and Data Visualization: Flask, Plotly
 
-<a name="installing"></a>
-### Installing
-Clone this GIT repository:
-```
-git clone https://github.com/matteobonanomi/disaster-response.git
-```
-<a name="executing"></a>
 ### Executing Program:
 1. Run the following commands in the project's root directory to set up your database and model.
 
@@ -73,11 +64,7 @@ In this case, it is warmly recommended to use a Linux machine to run Grid Search
 Using a standard desktop/laptop (4 CPUs, RAM 8Gb or above) it may take several hours to complete. 
 
 <a name="authors"></a>
-## Authors
 
-* [Matteo Bonanomi](https://github.com/matteobonanomi)
-
-<a name="license"></a>
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -97,7 +84,7 @@ Using a standard desktop/laptop (4 CPUs, RAM 8Gb or above) it may take several h
 2. After clicking **Classify Message**, you can see the categories which the message belongs to highlighted in green
 
 ![Sample Output](screenshots/sample_output1.png)
-(screenshots/sample_output2.png)
+![Sample Output](screenshots/sample_output2.png)
 
 3. The main page shows some graphs about training dataset, provided by Figure Eight
 
