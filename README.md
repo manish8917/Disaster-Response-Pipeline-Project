@@ -96,8 +96,9 @@ Using a standard desktop/laptop (4 CPUs, RAM 8Gb or above) it may take several h
 
 2. After clicking **Classify Message**, you can see the categories which the message belongs to highlighted in green
 
-![Sample Output](screenshots/sample_output.png)
+![Sample Output](screenshots/sample_output1.png)(screenshots/sample_output1.png)
 
 3. The main page shows some graphs about training dataset, provided by Figure Eight
 
-![Main Page](screenshots/main_page.png)
+![Main Page_1](screenshots/main1.png)
+![Main Page_2](screenshots/main2.png)
